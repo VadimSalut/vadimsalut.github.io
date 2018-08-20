@@ -1,2 +1,2 @@
-# vadimsalut.github.io
+# vadimsalut
 Мои пробные сайты
